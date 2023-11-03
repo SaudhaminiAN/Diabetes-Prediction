@@ -12,3 +12,10 @@ Final result of web application
 
 ![Alt Text](https://github.com/SaudhaminiAN/Diabetes-Prediction/assets/149544821/8bc58345-6ff1-40a5-b0be-9b5704b5ad21)
 
+<h2/> Installation<h2/>
+
+1. Clone this repository and unzip it.
+2. Begin a new virtual environment with Anaconda and activate it.
+3. Install required packages.
+4. Execute the command: streamlit run "file path"
+5. Open http://192.168.1.100:8501 in your Browser.  
